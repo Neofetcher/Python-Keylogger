@@ -59,7 +59,7 @@ To convert the file from .py to .exe use: Auto PY to Exe Project - https://pypi.
 -To stop the keylogger, press the specified termination key combination (default is 'Ctrl + Shift + x').
 
 ## Disclamer 
-This project is intended for educational purposes only. Use responsibly and only with proper authorization on systems you own or have explicit permission to monitor.
+> This project is intended for educational purposes only. Use responsibly and only with proper authorization on systems you own or have explicit permission to monitor.
 
 
 
